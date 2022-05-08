@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "ES2018",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "outDir": "./dist/",
+    "rootDir": "./src",
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": false,
+    "preserveConstEnums": true,
+    "allowJs": true,
+    "sourceMap": true,
+    "strictNullChecks": true
+  },
+  "filesGlob": ["*.ts"],
+  "exclude": ["node_modules", "dist"],
+  "compileOnSave": false
+}
