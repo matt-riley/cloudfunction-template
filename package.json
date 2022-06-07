@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "devDependencies": {
-    "@google-cloud/functions-framework": "3.1.1",
+    "@google-cloud/functions-framework": "3.1.2",
     "@swc-node/jest": "1.5.2",
     "@types/jest": "28.1.1",
     "@types/node": "17.0.40",
