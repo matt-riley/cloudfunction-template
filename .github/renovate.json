@@ -68,7 +68,7 @@
       "groupName": "webpack"
     },
     {
-      "matchPackagePatterns": ["^jest"],
+      "matchPackagePatterns": ["^jest", "jest$"],
       "labels": ["test", "dependencies"],
       "groupName": "test"
     },
