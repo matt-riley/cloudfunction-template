@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "devDependencies": {
     "@google-cloud/functions-framework": "3.2.0",
-    "@swc-node/jest": "1.6.4",
+    "@swc-node/jest": "1.6.5",
     "@types/jest": "29.5.1",
     "@types/node": "18.16.0",
     "@typescript-eslint/eslint-plugin": "5.59.0",
