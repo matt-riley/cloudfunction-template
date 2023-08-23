@@ -7,7 +7,7 @@
     "@google-cloud/functions-framework": "3.3.0",
     "@swc-node/jest": "1.6.7",
     "@types/jest": "29.5.4",
-    "@types/node": "18.17.7",
+    "@types/node": "18.17.8",
     "@typescript-eslint/eslint-plugin": "6.4.1",
     "@typescript-eslint/parser": "6.4.1",
     "esbuild": "0.19.2",
