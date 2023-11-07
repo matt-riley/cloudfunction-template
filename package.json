@@ -6,7 +6,7 @@
   "devDependencies": {
     "@google-cloud/functions-framework": "3.3.0",
     "@swc-node/jest": "1.6.8",
-    "@types/jest": "29.5.7",
+    "@types/jest": "29.5.8",
     "@types/node": "20.8.10",
     "@typescript-eslint/eslint-plugin": "6.10.0",
     "@typescript-eslint/parser": "6.10.0",
